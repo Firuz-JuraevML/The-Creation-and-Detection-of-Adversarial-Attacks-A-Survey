@@ -1,1 +1,1 @@
-# The-Creation-and-Detection-of-Adversarial-Attacks-A-Survey
+# The Creation and Detection of Adversarial Attacks A Survey
